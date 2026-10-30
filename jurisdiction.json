@@ -1,0 +1,8 @@
+{
+  "path": "us/tn",
+  "code": "US-TN",
+  "name": "United States (Tennessee)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-tennessee-law",
+  "build": "built"
+}

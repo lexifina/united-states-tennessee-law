@@ -1,0 +1,2333 @@
+{
+ "country": "US-TN",
+ "acts": [
+  {
+   "slug": "constitution-art-i",
+   "short": "Tenn. Const. art-i",
+   "title": "Constitution of Tennessee, Article I DECLARATION OF RIGHTS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 36,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-ii",
+   "short": "Tenn. Const. art-ii",
+   "title": "Constitution of Tennessee, Article II DISTRIBUTION OF POWERS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-iii",
+   "short": "Tenn. Const. art-iii",
+   "title": "Constitution of Tennessee, Article III EXECUTIVE DEPARTMENT",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.constitution.tn.html",
+     "sha256": "7695f1cfe616eab8c326a0055bc26ec76fa816025a648ba9c7327423b99c6327"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-iv",
+   "short": "Tenn. Const. art-iv",
+   "title": "Constitution of Tennessee, Article IV ELECTIONS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-ix",
+   "short": "Tenn. Const. art-ix",
+   "title": "Constitution of Tennessee, Article IX DISQUALIFICATIONS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.constitution.tn.html",
+     "sha256": "7695f1cfe616eab8c326a0055bc26ec76fa816025a648ba9c7327423b99c6327"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-v",
+   "short": "Tenn. Const. art-v",
+   "title": "Constitution of Tennessee, Article V IMPEACHMENTS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-vi",
+   "short": "Tenn. Const. art-vi",
+   "title": "Constitution of Tennessee, Article VI JUDICIAL DEPARTMENT",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 14,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-vii",
+   "short": "Tenn. Const. art-vii",
+   "title": "Constitution of Tennessee, Article VII STATE AND COUNTY OFFICERS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-viii",
+   "short": "Tenn. Const. art-viii",
+   "title": "Constitution of Tennessee, Article VIII MILITIA",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-x",
+   "short": "Tenn. Const. art-x",
+   "title": "Constitution of Tennessee, Article X OATHS, BRIBERY OF ELECTORS, NEW COUNTIES",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-art-xi",
+   "short": "Tenn. Const. art-xi",
+   "title": "Constitution of Tennessee, Article XI MISCELLANEOUS PROVISIONS",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 17,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.constitution.tn.html",
+     "sha256": "7695f1cfe616eab8c326a0055bc26ec76fa816025a648ba9c7327423b99c6327"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-legislativedepartment",
+   "short": "Tenn. Const. legislativedepartment",
+   "title": "Constitution of Tennessee, LEGISLATIVE DEPARTMENT",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 33,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-ordinanceorderingelectiononconstitutionof1870",
+   "short": "Tenn. Const. ordinanceorderingelectiononconstitutionof1870",
+   "title": "Constitution of Tennessee, ORDINANCE ORDERING ELECTION ON CONSTITUTION OF 1870",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-preamble",
+   "short": "Tenn. Const. preamble",
+   "title": "Constitution of Tennessee, Preamble and Declaration of Rights",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-schedule",
+   "short": "Tenn. Const. schedule",
+   "title": "Constitution of Tennessee, SCHEDULE",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.constitution.tn.html",
+     "sha256": "9524510eab84301f3b3901c3cad3c5d75478086d361128340416628311406bba"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-001",
+   "short": "T.C.A. title 39 ch. 001",
+   "title": "Tennessee Code, Title 39, Chapter 1 General Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 10,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-002",
+   "short": "T.C.A. title 39 ch. 002",
+   "title": "Tennessee Code, Title 39, Chapter 2 Offenses Against the Person",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-003",
+   "short": "T.C.A. title 39 ch. 003",
+   "title": "Tennessee Code, Title 39, Chapter 3 Offenses Against Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 14,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-004",
+   "short": "T.C.A. title 39 ch. 004",
+   "title": "Tennessee Code, Title 39, Chapter 4 Offenses Against the Family",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-005",
+   "short": "T.C.A. title 39 ch. 005",
+   "title": "Tennessee Code, Title 39, Chapter 5 Offenses Against the Administration of Government",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 8,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-006",
+   "short": "T.C.A. title 39 ch. 006",
+   "title": "Tennessee Code, Title 39, Chapter 6 Offenses Against Public Health, Safety or Welfare",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-011",
+   "short": "T.C.A. title 39 ch. 011",
+   "title": "Tennessee Code, Title 39, Chapter 11 General Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 72,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 72,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.39.html",
+     "sha256": "e04464f302f727ef9161c773dad7d1aa7d553d77b181baaf5bb7266fde5e5054"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-012",
+   "short": "T.C.A. title 39 ch. 012",
+   "title": "Tennessee Code, Title 39, Chapter 12 General Offenses",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-013",
+   "short": "T.C.A. title 39 ch. 013",
+   "title": "Tennessee Code, Title 39, Chapter 13 Offenses Against Person",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 123,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 123,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.39.html",
+     "sha256": "83aeb872e186d03871e55cd9b862a4347c11056ac06d967fa4232dadf1577e06"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 124,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.39.html",
+     "sha256": "e04464f302f727ef9161c773dad7d1aa7d553d77b181baaf5bb7266fde5e5054"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-014",
+   "short": "T.C.A. title 39 ch. 014",
+   "title": "Tennessee Code, Title 39, Chapter 14 Offenses Against Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 126,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 126,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.39.html",
+     "sha256": "83aeb872e186d03871e55cd9b862a4347c11056ac06d967fa4232dadf1577e06"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 126,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.39.html",
+     "sha256": "e04464f302f727ef9161c773dad7d1aa7d553d77b181baaf5bb7266fde5e5054"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-015",
+   "short": "T.C.A. title 39 ch. 015",
+   "title": "Tennessee Code, Title 39, Chapter 15 Offenses Against the Family",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 45,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 54,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.39.html",
+     "sha256": "83aeb872e186d03871e55cd9b862a4347c11056ac06d967fa4232dadf1577e06"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 50,
+     "source_url": "https://archive.org/download/gov.tn.tca/release76.2021.05.21/gov.tn.tca.title.39.html",
+     "sha256": "15d95b01d3409bd2811ec72c40767746e86483e6c85ac4ee398b4709f129ddae"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-016",
+   "short": "T.C.A. title 39 ch. 016",
+   "title": "Tennessee Code, Title 39, Chapter 16 Offenses Against Administration of Government",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 55,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 55,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.39.html",
+     "sha256": "83aeb872e186d03871e55cd9b862a4347c11056ac06d967fa4232dadf1577e06"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 55,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.39.html",
+     "sha256": "e04464f302f727ef9161c773dad7d1aa7d553d77b181baaf5bb7266fde5e5054"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-chapter-017",
+   "short": "T.C.A. title 39 ch. 017",
+   "title": "Tennessee Code, Title 39, Chapter 17 Offenses Against Public Health, Safety and Welfare",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 234,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.39.html",
+     "sha256": "c66d9a0068766b29135c0d626a67eeccfe82607e689cbb07927fb3beb77c4c6a"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 244,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.39.html",
+     "sha256": "83aeb872e186d03871e55cd9b862a4347c11056ac06d967fa4232dadf1577e06"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 244,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.39.html",
+     "sha256": "e04464f302f727ef9161c773dad7d1aa7d553d77b181baaf5bb7266fde5e5054"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 234,
+     "source_url": "https://archive.org/download/gov.tn.tca/release76.2021.05.21/gov.tn.tca.title.39.html",
+     "sha256": "15d95b01d3409bd2811ec72c40767746e86483e6c85ac4ee398b4709f129ddae"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-001",
+   "short": "T.C.A. title 48 ch. 001",
+   "title": "Tennessee Code, Title 48, Chapter 1 Securities",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 28,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 28,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 28,
+     "source_url": "https://archive.org/download/gov.tn.tca/release74.2020.12.22/gov.tn.tca.title.48.html",
+     "sha256": "37125f22aefb02a11e126340ab4dacd10f5296410da20a340f5c8006ebf0f493"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 28,
+     "source_url": "https://archive.org/download/gov.tn.tca/release76.2021.05.21/gov.tn.tca.title.48.html",
+     "sha256": "8dfed3a20ce0efe7164a4f120a1e24289baa24da132166c92a090768fb191c5b"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-011",
+   "short": "T.C.A. title 48 ch. 011",
+   "title": "Tennessee Code, Title 48, Chapter 11 General Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-012",
+   "short": "T.C.A. title 48 ch. 012",
+   "title": "Tennessee Code, Title 48, Chapter 12 Incorporation",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-013",
+   "short": "T.C.A. title 48 ch. 013",
+   "title": "Tennessee Code, Title 48, Chapter 13 Purposes and Powers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-014",
+   "short": "T.C.A. title 48 ch. 014",
+   "title": "Tennessee Code, Title 48, Chapter 14 Name",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-015",
+   "short": "T.C.A. title 48 ch. 015",
+   "title": "Tennessee Code, Title 48, Chapter 15 Office and Agent",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-016",
+   "short": "T.C.A. title 48 ch. 016",
+   "title": "Tennessee Code, Title 48, Chapter 16 Shares and Distributions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-017",
+   "short": "T.C.A. title 48 ch. 017",
+   "title": "Tennessee Code, Title 48, Chapter 17 Shareholders",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 23,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-018",
+   "short": "T.C.A. title 48 ch. 018",
+   "title": "Tennessee Code, Title 48, Chapter 18 Directors and Officers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 39,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-020",
+   "short": "T.C.A. title 48 ch. 020",
+   "title": "Tennessee Code, Title 48, Chapter 20 Amendment of Charter and Bylaws",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 12,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-021",
+   "short": "T.C.A. title 48 ch. 021",
+   "title": "Tennessee Code, Title 48, Chapter 21 Merger, Share Exchange and Conversion",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 21,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-022",
+   "short": "T.C.A. title 48 ch. 022",
+   "title": "Tennessee Code, Title 48, Chapter 22 Sale of Assets",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-023",
+   "short": "T.C.A. title 48 ch. 023",
+   "title": "Tennessee Code, Title 48, Chapter 23 Dissenters' Rights",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 14,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-024",
+   "short": "T.C.A. title 48 ch. 024",
+   "title": "Tennessee Code, Title 48, Chapter 24 Dissolution",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-025",
+   "short": "T.C.A. title 48 ch. 025",
+   "title": "Tennessee Code, Title 48, Chapter 25 Foreign Corporations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-026",
+   "short": "T.C.A. title 48 ch. 026",
+   "title": "Tennessee Code, Title 48, Chapter 26 Records and Reports",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 9,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 9,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-027",
+   "short": "T.C.A. title 48 ch. 027",
+   "title": "Tennessee Code, Title 48, Chapter 27 Transition Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-028",
+   "short": "T.C.A. title 48 ch. 028",
+   "title": "Tennessee Code, Title 48, Chapter 28 For-Profit Benefit Corporation Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 9,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-051",
+   "short": "T.C.A. title 48 ch. 051",
+   "title": "Tennessee Code, Title 48, Chapter 51 General Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 21,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 21,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-052",
+   "short": "T.C.A. title 48 ch. 052",
+   "title": "Tennessee Code, Title 48, Chapter 52 Incorporation",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-053",
+   "short": "T.C.A. title 48 ch. 053",
+   "title": "Tennessee Code, Title 48, Chapter 53 Purposes and Powers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 8,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-054",
+   "short": "T.C.A. title 48 ch. 054",
+   "title": "Tennessee Code, Title 48, Chapter 54 Name",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-055",
+   "short": "T.C.A. title 48 ch. 055",
+   "title": "Tennessee Code, Title 48, Chapter 55 Office and Agent",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-056",
+   "short": "T.C.A. title 48 ch. 056",
+   "title": "Tennessee Code, Title 48, Chapter 56 Members and Memberships",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 13,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-057",
+   "short": "T.C.A. title 48 ch. 057",
+   "title": "Tennessee Code, Title 48, Chapter 57 Meetings and Voting",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-058",
+   "short": "T.C.A. title 48 ch. 058",
+   "title": "Tennessee Code, Title 48, Chapter 58 Directors and Officers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 42,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-060",
+   "short": "T.C.A. title 48 ch. 060",
+   "title": "Tennessee Code, Title 48, Chapter 60 Amendment of Charter and Bylaws",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-061",
+   "short": "T.C.A. title 48 ch. 061",
+   "title": "Tennessee Code, Title 48, Chapter 61 Mergers, Membership Exchanges, Entity Conversions, and For-Profit Conversions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 24,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-062",
+   "short": "T.C.A. title 48 ch. 062",
+   "title": "Tennessee Code, Title 48, Chapter 62 Sale of Assets",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-063",
+   "short": "T.C.A. title 48 ch. 063",
+   "title": "Tennessee Code, Title 48, Chapter 63 Distributions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-064",
+   "short": "T.C.A. title 48 ch. 064",
+   "title": "Tennessee Code, Title 48, Chapter 64 Dissolution",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 20,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-065",
+   "short": "T.C.A. title 48 ch. 065",
+   "title": "Tennessee Code, Title 48, Chapter 65 Foreign Corporations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-066",
+   "short": "T.C.A. title 48 ch. 066",
+   "title": "Tennessee Code, Title 48, Chapter 66 Records and Reports",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-067",
+   "short": "T.C.A. title 48 ch. 067",
+   "title": "Tennessee Code, Title 48, Chapter 67 Religious Corporations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-068",
+   "short": "T.C.A. title 48 ch. 068",
+   "title": "Tennessee Code, Title 48, Chapter 68 Transition Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-069",
+   "short": "T.C.A. title 48 ch. 069",
+   "title": "Tennessee Code, Title 48, Chapter 69 Electric G&T Cooperative Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 23,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-101",
+   "short": "T.C.A. title 48 ch. 101",
+   "title": "Tennessee Code, Title 48, Chapter 101 Special Purpose Corporations and Associations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 125,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 125,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-102",
+   "short": "T.C.A. title 48 ch. 102",
+   "title": "Tennessee Code, Title 48, Chapter 102 Fraternal and Patriotic Organizations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-103",
+   "short": "T.C.A. title 48 ch. 103",
+   "title": "Tennessee Code, Title 48, Chapter 103 Corporate Takeovers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 45,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-201",
+   "short": "T.C.A. title 48 ch. 201",
+   "title": "Tennessee Code, Title 48, Chapter 201 General Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-202",
+   "short": "T.C.A. title 48 ch. 202",
+   "title": "Tennessee Code, Title 48, Chapter 202 Definitions and Notice",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-203",
+   "short": "T.C.A. title 48 ch. 203",
+   "title": "Tennessee Code, Title 48, Chapter 203 Formation",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-204",
+   "short": "T.C.A. title 48 ch. 204",
+   "title": "Tennessee Code, Title 48, Chapter 204 Conversion of Partnership to an LLC",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-205",
+   "short": "T.C.A. title 48 ch. 205",
+   "title": "Tennessee Code, Title 48, Chapter 205 Articles of Organization",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-206",
+   "short": "T.C.A. title 48 ch. 206",
+   "title": "Tennessee Code, Title 48, Chapter 206 Operating Agreement",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-207",
+   "short": "T.C.A. title 48 ch. 207",
+   "title": "Tennessee Code, Title 48, Chapter 207 Name",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-208",
+   "short": "T.C.A. title 48 ch. 208",
+   "title": "Tennessee Code, Title 48, Chapter 208 Registered Agent",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-209",
+   "short": "T.C.A. title 48 ch. 209",
+   "title": "Tennessee Code, Title 48, Chapter 209 Amendment of Articles",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-211",
+   "short": "T.C.A. title 48 ch. 211",
+   "title": "Tennessee Code, Title 48, Chapter 211 Classification for Tax Purposes",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-212",
+   "short": "T.C.A. title 48 ch. 212",
+   "title": "Tennessee Code, Title 48, Chapter 212 General Powers of LLC",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-213",
+   "short": "T.C.A. title 48 ch. 213",
+   "title": "Tennessee Code, Title 48, Chapter 213 Ultra Vires Actions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-214",
+   "short": "T.C.A. title 48 ch. 214",
+   "title": "Tennessee Code, Title 48, Chapter 214 Transaction of Business Outside Tennessee",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-215",
+   "short": "T.C.A. title 48 ch. 215",
+   "title": "Tennessee Code, Title 48, Chapter 215 Members and Membership Interests",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-216",
+   "short": "T.C.A. title 48 ch. 216",
+   "title": "Tennessee Code, Title 48, Chapter 216 Termination of Membership Interest",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-217",
+   "short": "T.C.A. title 48 ch. 217",
+   "title": "Tennessee Code, Title 48, Chapter 217 Absence of Personal Liability",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-218",
+   "short": "T.C.A. title 48 ch. 218",
+   "title": "Tennessee Code, Title 48, Chapter 218 Assignment",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-219",
+   "short": "T.C.A. title 48 ch. 219",
+   "title": "Tennessee Code, Title 48, Chapter 219 Powers of Estate of Deceased or Incompetent Member",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-220",
+   "short": "T.C.A. title 48 ch. 220",
+   "title": "Tennessee Code, Title 48, Chapter 220 Sharing of Profits and Losses",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-221",
+   "short": "T.C.A. title 48 ch. 221",
+   "title": "Tennessee Code, Title 48, Chapter 221 Preemptive Rights",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-222",
+   "short": "T.C.A. title 48 ch. 222",
+   "title": "Tennessee Code, Title 48, Chapter 222 Membership Meetings",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-223",
+   "short": "T.C.A. title 48 ch. 223",
+   "title": "Tennessee Code, Title 48, Chapter 223 Member Actions Without a Meeting",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-224",
+   "short": "T.C.A. title 48 ch. 224",
+   "title": "Tennessee Code, Title 48, Chapter 224 Voting",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-225",
+   "short": "T.C.A. title 48 ch. 225",
+   "title": "Tennessee Code, Title 48, Chapter 225 Proxies",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-226",
+   "short": "T.C.A. title 48 ch. 226",
+   "title": "Tennessee Code, Title 48, Chapter 226 Member Voting Agreements",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-228",
+   "short": "T.C.A. title 48 ch. 228",
+   "title": "Tennessee Code, Title 48, Chapter 228 Records and Reports",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-230",
+   "short": "T.C.A. title 48 ch. 230",
+   "title": "Tennessee Code, Title 48, Chapter 230 Derivative Actions and Equitable Remedies",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-231",
+   "short": "T.C.A. title 48 ch. 231",
+   "title": "Tennessee Code, Title 48, Chapter 231 Dissenters' Rights",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 13,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-232",
+   "short": "T.C.A. title 48 ch. 232",
+   "title": "Tennessee Code, Title 48, Chapter 232 Contributions and Admission of Members",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-233",
+   "short": "T.C.A. title 48 ch. 233",
+   "title": "Tennessee Code, Title 48, Chapter 233 Contribution Agreements",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-234",
+   "short": "T.C.A. title 48 ch. 234",
+   "title": "Tennessee Code, Title 48, Chapter 234 Contribution Allowance Agreements",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-235",
+   "short": "T.C.A. title 48 ch. 235",
+   "title": "Tennessee Code, Title 48, Chapter 235 Financial Provisions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-236",
+   "short": "T.C.A. title 48 ch. 236",
+   "title": "Tennessee Code, Title 48, Chapter 236 Distributions",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-237",
+   "short": "T.C.A. title 48 ch. 237",
+   "title": "Tennessee Code, Title 48, Chapter 237 Liability upon Wrongful Distribution",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-238",
+   "short": "T.C.A. title 48 ch. 238",
+   "title": "Tennessee Code, Title 48, Chapter 238 Governance",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-239",
+   "short": "T.C.A. title 48 ch. 239",
+   "title": "Tennessee Code, Title 48, Chapter 239 Governor Management",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-240",
+   "short": "T.C.A. title 48 ch. 240",
+   "title": "Tennessee Code, Title 48, Chapter 240 Member Management",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-241",
+   "short": "T.C.A. title 48 ch. 241",
+   "title": "Tennessee Code, Title 48, Chapter 241 Managers",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-242",
+   "short": "T.C.A. title 48 ch. 242",
+   "title": "Tennessee Code, Title 48, Chapter 242 Loans and Obligations",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-243",
+   "short": "T.C.A. title 48 ch. 243",
+   "title": "Tennessee Code, Title 48, Chapter 243 Indemnification",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-244",
+   "short": "T.C.A. title 48 ch. 244",
+   "title": "Tennessee Code, Title 48, Chapter 244 Merger and Transfer of Assets",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-245",
+   "short": "T.C.A. title 48 ch. 245",
+   "title": "Tennessee Code, Title 48, Chapter 245 Dissolution Generally",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 23,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-246",
+   "short": "T.C.A. title 48 ch. 246",
+   "title": "Tennessee Code, Title 48, Chapter 246 Foreign Limited Liability Companies",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 14,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-247",
+   "short": "T.C.A. title 48 ch. 247",
+   "title": "Tennessee Code, Title 48, Chapter 247 Filing Documents and Secretary of State",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 13,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 13,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-248",
+   "short": "T.C.A. title 48 ch. 248",
+   "title": "Tennessee Code, Title 48, Chapter 248 Professional Limited Liability Companies",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 27,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-chapter-249",
+   "short": "T.C.A. title 48 ch. 249",
+   "title": "Tennessee Code, Title 48, Chapter 249 Tennessee Revised Limited Liability Company Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 146,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.48.html",
+     "sha256": "2b9bee883226aa297e49bd904752d5875d4fc6b1301edd511d9640e275c8e4be"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 146,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.48.html",
+     "sha256": "8b279ae912b5c0cc6f9f43d5f30b93053620539bf2eac9607d6a6a5f561c3995"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-001",
+   "short": "T.C.A. title 66 ch. 001",
+   "title": "Tennessee Code, Title 66, Chapter 1 Estates in Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 20,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-002",
+   "short": "T.C.A. title 66 ch. 002",
+   "title": "Tennessee Code, Title 66, Chapter 2 Power to Own and Convey Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-003",
+   "short": "T.C.A. title 66 ch. 003",
+   "title": "Tennessee Code, Title 66, Chapter 3 Fraudulent Conveyances and Devises",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 21,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-004",
+   "short": "T.C.A. title 66 ch. 004",
+   "title": "Tennessee Code, Title 66, Chapter 4 Contracts to Convey Real Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-005",
+   "short": "T.C.A. title 66 ch. 005",
+   "title": "Tennessee Code, Title 66, Chapter 5 Conveyances of Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 24,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-006",
+   "short": "T.C.A. title 66 ch. 006",
+   "title": "Tennessee Code, Title 66, Chapter 6 Tennessee Coordinate System",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 6,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-007",
+   "short": "T.C.A. title 66 ch. 007",
+   "title": "Tennessee Code, Title 66, Chapter 7 Leases",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 11,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-008",
+   "short": "T.C.A. title 66 ch. 008",
+   "title": "Tennessee Code, Title 66, Chapter 8 Redemption of Real Estate Sold for Debt",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 14,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-009",
+   "short": "T.C.A. title 66 ch. 009",
+   "title": "Tennessee Code, Title 66, Chapter 9 Easements and Restrictive Covenants",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 21,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-010",
+   "short": "T.C.A. title 66 ch. 010",
+   "title": "Tennessee Code, Title 66, Chapter 10 Vendor's Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 5,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-011",
+   "short": "T.C.A. title 66 ch. 011",
+   "title": "Tennessee Code, Title 66, Chapter 11 Mechanics' and Materialmen's Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 58,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 58,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-012",
+   "short": "T.C.A. title 66 ch. 012",
+   "title": "Tennessee Code, Title 66, Chapter 12 Crop Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 15,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-013",
+   "short": "T.C.A. title 66 ch. 013",
+   "title": "Tennessee Code, Title 66, Chapter 13 Employees' Lien",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-014",
+   "short": "T.C.A. title 66 ch. 014",
+   "title": "Tennessee Code, Title 66, Chapter 14 Artisans' Lien",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-015",
+   "short": "T.C.A. title 66 ch. 015",
+   "title": "Tennessee Code, Title 66, Chapter 15 Manufacturers' and Processors' Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-016",
+   "short": "T.C.A. title 66 ch. 016",
+   "title": "Tennessee Code, Title 66, Chapter 16 Launderers', Cleaners' and Storage Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-017",
+   "short": "T.C.A. title 66 ch. 017",
+   "title": "Tennessee Code, Title 66, Chapter 17 Innkeeper's Lien",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-018",
+   "short": "T.C.A. title 66 ch. 018",
+   "title": "Tennessee Code, Title 66, Chapter 18 Molders' lien",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-019",
+   "short": "T.C.A. title 66 ch. 019",
+   "title": "Tennessee Code, Title 66, Chapter 19 Liens on Vehicles and Conveyances",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 20,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-020",
+   "short": "T.C.A. title 66 ch. 020",
+   "title": "Tennessee Code, Title 66, Chapter 20 Liens on Animals",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-021",
+   "short": "T.C.A. title 66 ch. 021",
+   "title": "Tennessee Code, Title 66, Chapter 21 Recording and Enforcement of Liens",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 18,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-022",
+   "short": "T.C.A. title 66 ch. 022",
+   "title": "Tennessee Code, Title 66, Chapter 22 Acknowledgment of Instruments",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 15,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-023",
+   "short": "T.C.A. title 66 ch. 023",
+   "title": "Tennessee Code, Title 66, Chapter 23 Authentication of Instruments by Witnesses",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 20,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-024",
+   "short": "T.C.A. title 66 ch. 024",
+   "title": "Tennessee Code, Title 66, Chapter 24 Registration of Instruments",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 29,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-025",
+   "short": "T.C.A. title 66 ch. 025",
+   "title": "Tennessee Code, Title 66, Chapter 25 Release of Liens Created by Written Instruments",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 19,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-026",
+   "short": "T.C.A. title 66 ch. 026",
+   "title": "Tennessee Code, Title 66, Chapter 26 Effect of Authentication and Registration",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 16,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-027",
+   "short": "T.C.A. title 66 ch. 027",
+   "title": "Tennessee Code, Title 66, Chapter 27 Multiple Ownership of Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 85,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-028",
+   "short": "T.C.A. title 66 ch. 028",
+   "title": "Tennessee Code, Title 66, Chapter 28 Uniform Residential Landlord and Tenant Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 44,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 44,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-029",
+   "short": "T.C.A. title 66 ch. 029",
+   "title": "Tennessee Code, Title 66, Chapter 29 Abandoned or Unclaimed Property",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 94,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 94,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 94,
+     "source_url": "https://archive.org/download/gov.tn.tca/release75.2021.02.04/gov.tn.tca.title.66.html",
+     "sha256": "9acacd6a30d09aa1f77fb1bb26f2cf14251c3374bb860ddf400985155eee419a"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-030",
+   "short": "T.C.A. title 66 ch. 030",
+   "title": "Tennessee Code, Title 66, Chapter 30 Residential Ground Rent Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 6,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-031",
+   "short": "T.C.A. title 66 ch. 031",
+   "title": "Tennessee Code, Title 66, Chapter 31 Self-service Storage Facility Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 7,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-032",
+   "short": "T.C.A. title 66 ch. 032",
+   "title": "Tennessee Code, Title 66, Chapter 32 Time-Share Programs and Vacation Clubs",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 58,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-033",
+   "short": "T.C.A. title 66 ch. 033",
+   "title": "Tennessee Code, Title 66, Chapter 33 Stratified Fee Estate",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 1,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-034",
+   "short": "T.C.A. title 66 ch. 034",
+   "title": "Tennessee Code, Title 66, Chapter 34 Prompt Pay Act",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 20,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 22,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-035",
+   "short": "T.C.A. title 66 ch. 035",
+   "title": "Tennessee Code, Title 66, Chapter 35 Rent Control",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-036",
+   "short": "T.C.A. title 66 ch. 036",
+   "title": "Tennessee Code, Title 66, Chapter 36 Construction Defects",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 3,
+     "source_url": "https://archive.org/download/gov.tn.tca/release73.2020.09.30/gov.tn.tca.title.66.html",
+     "sha256": "3c2f0c7eba0db8642410101dfa5a5b7300d9f72309cd807475a84c089bb9c772"
+    }
+   ]
+  },
+  {
+   "slug": "title-66-chapter-037",
+   "short": "T.C.A. title 66 ch. 037",
+   "title": "Tennessee Code, Title 66, Chapter 37 Prohibition of Covenants Providing for Transfer Fees Act of 2011",
+   "url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://archive.org/download/gov.tn.tca/release72.2020.09.01/gov.tn.tca.title.66.html",
+     "sha256": "6bd185369e8ed0fff94cc2076529b4b8605e1e9cfa2adacb98f62f17270ecdd2"
+    }
+   ]
+  }
+ ]
+}
